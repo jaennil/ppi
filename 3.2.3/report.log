@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  10 OCT 2024 23:14
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  3 NOV 2024 20:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -485,144 +485,149 @@ File: 3.2.3/models/Auth.pdf Graphic file (type pdf)
 <use 3.2.3/models/Auth.pdf>
 File: 3.2.3/models/Main.pdf Graphic file (type pdf)
 <use 3.2.3/models/Main.pdf>
-File: 3.2.3/models/Selected.pdf Graphic file (type pdf)
-<use 3.2.3/models/Selected.pdf>
+File: 3.2.3/models/Filter.pdf Graphic file (type pdf)
+<use 3.2.3/models/Filter.pdf>
  [3]
+File: 3.2.3/models/Выбранный авто.pdf Graphic file (type pdf)
+<use 3.2.3/models/Выбранный авто.pdf>
+File: 3.2.3/models/Контакты.pdf Graphic file (type pdf)
+<use 3.2.3/models/Контакты.pdf>
+ [4]
 File: 3.2.3/models/Footer.pdf Graphic file (type pdf)
 <use 3.2.3/models/Footer.pdf>
 
-Underfull \hbox (badness 1859) in paragraph at lines 87--88
+Underfull \hbox (badness 1859) in paragraph at lines 101--102
 []\TU/TimesNewRoman(0)/m/n/14.4 Вайрфреймы (или каркасы) — это низко детализиро
 ванные прототипы
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 87--88
+Underfull \hbox (badness 1320) in paragraph at lines 101--102
 \TU/TimesNewRoman(0)/m/n/14.4 веб-страниц, которые отображают структуру и распо
 ложение элементов
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 87--88
+Underfull \hbox (badness 1102) in paragraph at lines 101--102
 \TU/TimesNewRoman(0)/m/n/14.4 интерфейса, таких как кнопки, изображения и текст
 . Они служат для
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--93
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 []\TU/TimesNewRoman(0)/m/n/14.4 Среднеполигональные вайрфреймы: более детализир
 ованные,
  []
 
-[4]
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 []\TU/TimesNewRoman(0)/m/n/14.4 Высокополигональные вайрфреймы: почти полноценн
 ые
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 []\TU/TimesNewRoman(0)/m/n/14.4 Расположение элементов страниц критически важно
  для удобства
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 97--98
+Underfull \hbox (badness 1303) in paragraph at lines 111--112
 \TU/TimesNewRoman(0)/m/n/14.4 использования и восприятия информации пользовател
 ями. Правильное
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--100
+Underfull \hbox (badness 10000) in paragraph at lines 112--114
 []\TU/TimesNewRoman(0)/m/n/14.4 Какие правила композиции при расположении элеме
 нтов
  []
 
 
-Underfull \hbox (badness 7722) in paragraph at lines 100--101
+Underfull \hbox (badness 7722) in paragraph at lines 114--115
 []\TU/TimesNewRoman(0)/m/n/14.4 Правило третей: делит страницу на три равные ча
 сти по
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 \TU/TimesNewRoman(0)/m/n/14.4 горизонтали и вертикали, что помогает создать сба
 лансированную
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 101--102
+Underfull \hbox (badness 6978) in paragraph at lines 115--116
 []\TU/TimesNewRoman(0)/m/n/14.4 Золотое сечение: пропорция, которая считается э
 стетически
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 103--104
+Underfull \hbox (badness 1661) in paragraph at lines 117--118
 []\TU/TimesNewRoman(0)/m/n/14.4 Негативное пространство: использование пустого 
 пространства
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 []\TU/TimesNewRoman(0)/m/n/14.4 Близость: элементы, расположенные близко друг к
  другу,
  []
 
 
-Underfull \hbox (badness 2922) in paragraph at lines 111--112
+Underfull \hbox (badness 2922) in paragraph at lines 125--126
 []\TU/TimesNewRoman(0)/m/n/14.4 Повторение: повторяющиеся стили создают визуаль
 ную связь
  []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
 []\TU/TimesNewRoman(0)/m/n/14.4 Figma: популярный инструмент для совместной раб
 оты и
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 121--122
+Underfull \hbox (badness 1546) in paragraph at lines 135--136
 []\TU/TimesNewRoman(0)/m/n/14.4 Sketch: программа для проектирования интерфейсо
 в, особенно
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 []\TU/TimesNewRoman(0)/m/n/14.4 Miro: платформа для совместной работы, которая 
 также
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 125--126
+Underfull \hbox (badness 3724) in paragraph at lines 139--140
 []\TU/TimesNewRoman(0)/m/n/14.4 draw.io: бесплатный онлайн-сервис для создания 
 диаграмм и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
 []\TU/TimesNewRoman(0)/m/n/14.4 Как учитывается линия фолда и область терминала
  при
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 129--130
+Underfull \hbox (badness 5231) in paragraph at lines 143--144
 []\TU/TimesNewRoman(0)/m/n/14.4 Линия фолда — это граница, ниже которой пользов
 атели могут не
  []
 
-[6] (3.2.3/report.aux)
+[7] (3.2.3/report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7975 strings out of 476026
- 202105 string characters out of 5795041
+ 7997 strings out of 476026
+ 202789 string characters out of 5795041
  1927839 words of memory out of 5000000
- 29966 multiletter control sequences out of 15000+600000
+ 29988 multiletter control sequences out of 15000+600000
  559577 words of font info for 59 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
  84i,11n,96p,420b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 3.2.3/report.pdf (6 pages).
+Output written on 3.2.3/report.pdf (7 pages).

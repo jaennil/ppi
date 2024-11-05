@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  8 OCT 2024 21:22
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  1 NOV 2024 01:13
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -481,8 +481,8 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 62--63
 [][] 
  []
 
-File: 3.2.1/models/mysite_sitemap.png Graphic file (type bmp)
-<3.2.1/models/mysite_sitemap.png>
+File: 3.2.1/models/mysite_sitemap2.png Graphic file (type bmp)
+<3.2.1/models/mysite_sitemap2.png>
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 71--72
 [][] 
@@ -532,11 +532,11 @@ L3 programming layer <2024-02-20>
  ) 
 Here is how much of TeX's memory you used:
  7978 strings out of 476026
- 202353 string characters out of 5795041
+ 202372 string characters out of 5795041
  1927839 words of memory out of 5000000
  29968 multiletter control sequences out of 15000+600000
  559577 words of font info for 59 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
- 84i,11n,96p,294b,425s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,96p,294b,423s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 3.2.1/report.pdf (5 pages).

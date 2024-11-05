@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  8 OCT 2024 23:55
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  1 NOV 2024 01:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -512,103 +512,118 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 74--75
 [][] 
  []
 
+File: 3.2.2/models/auto_ru_cards_f.png Graphic file (type bmp)
+<3.2.2/models/auto_ru_cards_f.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 81--82
+[][] 
+ []
+
+[4]
+File: 3.2.2/models/z_pattern_autoscout24.png Graphic file (type bmp)
+<3.2.2/models/z_pattern_autoscout24.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 88--89
+[][] 
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
 []\TU/TimesNewRoman(0)/m/n/14.4 Заголовок (Header), подвал (Footer), навигацион
 ное меню, боковые
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 84--85
+Underfull \hbox (badness 1173) in paragraph at lines 98--99
 \TU/TimesNewRoman(0)/m/n/14.4 панели (Sidebar), контентные блоки, карточки това
 ров, формы, кнопки,
  []
 
-[4]
-Underfull \hbox (badness 4144) in paragraph at lines 87--88
+
+Underfull \hbox (badness 4144) in paragraph at lines 101--102
 \TU/TimesNewRoman(0)/m/n/14.4 для пользователя, включая визуальные элементы и и
 х расположение.
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 87--88
+Underfull \hbox (badness 2426) in paragraph at lines 101--102
 \TU/TimesNewRoman(0)/m/n/14.4 CSS и JavaScript, которые определяют функциональн
 ость и поведение
  []
 
-
-Underfull \hbox (badness 7362) in paragraph at lines 90--91
+[6]
+Underfull \hbox (badness 7362) in paragraph at lines 104--105
 \TU/TimesNewRoman(0)/m/n/14.4 меню, хлебные крошки, пагинация, ссылки на другие
  страницы и
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 93--94
+Underfull \hbox (badness 3895) in paragraph at lines 107--108
 []\TU/TimesNewRoman(0)/m/n/14.4 Модальное окно предназначено для отображения ва
 жной информации
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--98
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 []\TU/TimesNewRoman(0)/m/n/14.4 Для чего предназначены структурные элементы Паг
 инация,
  []
 
 
-Underfull \hbox (badness 6220) in paragraph at lines 99--100
+Underfull \hbox (badness 6220) in paragraph at lines 113--114
 []\TU/TimesNewRoman(0)/m/n/14.4 Пагинация позволяет пользователям перемещаться 
 между страницами
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
 []\TU/TimesNewRoman(0)/m/n/14.4 Что такое паттерны сканирования экрана (айтреки
 нг)
  []
 
-[5]
-Underfull \hbox (badness 1173) in paragraph at lines 102--103
+
+Underfull \hbox (badness 1173) in paragraph at lines 116--117
 \TU/TimesNewRoman(0)/m/n/14.4 просматривают и воспринимают информацию на страни
 це. ”Тепловые
  []
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 102--103
+Underfull \hbox (badness 5490) in paragraph at lines 116--117
 \TU/TimesNewRoman(0)/m/n/14.4 карты” визуализируют, где пользователи кликают, п
 рокручивают или
  []
 
-
-Underfull \hbox (badness 5105) in paragraph at lines 105--106
+[7]
+Underfull \hbox (badness 5105) in paragraph at lines 119--120
 []\TU/TimesNewRoman(0)/m/n/14.4 Приемы композиции включают использование сеток 
 для организации
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 105--106
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 \TU/TimesNewRoman(0)/m/n/14.4 элементов, контраст для выделения важных частей, 
 баланс между
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 105--106
+Underfull \hbox (badness 1789) in paragraph at lines 119--120
 \TU/TimesNewRoman(0)/m/n/14.4 текстом и изображениями, иерархию для упорядочива
 ния информации,
  []
 
-[6] (3.2.2/report.aux)
+[8] (3.2.2/report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7978 strings out of 476026
- 202353 string characters out of 5795041
+ 8016 strings out of 476026
+ 203621 string characters out of 5795041
  1926839 words of memory out of 5000000
- 29968 multiletter control sequences out of 15000+600000
+ 30006 multiletter control sequences out of 15000+600000
  559577 words of font info for 59 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
- 84i,12n,96p,396b,329s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,96p,396b,329s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 3.2.2/report.pdf (6 pages).
+Output written on 3.2.2/report.pdf (8 pages).
