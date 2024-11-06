@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  3 NOV 2024 03:29
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  6 NOV 2024 12:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -658,35 +658,33 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 198--199
 [][] 
  []
 
-File: 6.3.5/models/table1.png Graphic file (type bmp)
-<6.3.5/models/table1.png>
-[16]
 File: 6.3.5/models/step_mashina_loshadi.jpg Graphic file (type bmp)
 <6.3.5/models/step_mashina_loshadi.jpg>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 205--206
+[][] 
+ []
+
+[16]
+File: 6.3.5/models/step_cropped.jpg Graphic file (type bmp)
+<6.3.5/models/step_cropped.jpg>
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 212--213
 [][] 
  []
 
-File: 6.3.5/models/step_cropped.jpg Graphic file (type bmp)
-<6.3.5/models/step_cropped.jpg>
+File: 6.3.5/models/gimp_step_scale.png Graphic file (type bmp)
+<6.3.5/models/gimp_step_scale.png>
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 219--220
 [][] 
  []
 
 [17]
-File: 6.3.5/models/gimp_step_scale.png Graphic file (type bmp)
-<6.3.5/models/gimp_step_scale.png>
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 226--227
-[][] 
- []
-
 File: 6.3.5/models/step_scaled.jpg Graphic file (type bmp)
 <6.3.5/models/step_scaled.jpg>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 233--234
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 226--227
 [][] 
  []
 
@@ -697,7 +695,7 @@ File: 6.3.5/models/gimp_scale_quality_nature.png Graphic file (type bmp)
 File: 6.3.5/models/step_quality.jpg Graphic file (type bmp)
 <6.3.5/models/step_quality.jpg>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 247--248
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 240--241
 [][] 
  []
 
@@ -705,70 +703,70 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 247--248
 File: 6.3.5/models/step_tinypng.png Graphic file (type bmp)
 <6.3.5/models/step_tinypng.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 254--255
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 247--248
 [][] 
  []
 
 File: 6.3.5/models/step_tinypng_image.jpg Graphic file (type bmp)
 <6.3.5/models/step_tinypng_image.jpg>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 261--262
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 254--255
 [][] 
  []
 
 [21]
-File: 6.3.5/models/table2.png Graphic file (type bmp)
-<6.3.5/models/table2.png>
+File: 6.3.5/models/tables.png Graphic file (type bmp)
+<6.3.5/models/tables.png>
 
-Underfull \hbox (badness 5077) in paragraph at lines 278--279
+Underfull \hbox (badness 5077) in paragraph at lines 270--271
 \TU/TimesNewRoman(0)/m/n/14.4 и формат, напрямую влияют на скорость загрузки ве
 б-страницы, её
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 278--279
+Underfull \hbox (badness 10000) in paragraph at lines 270--271
 \TU/TimesNewRoman(0)/m/n/14.4 этих параметров обеспечивает хорошее качество изо
 бражения при
  []
 
-
-Underfull \hbox (badness 6961) in paragraph at lines 282--283
+[22]
+Underfull \hbox (badness 6961) in paragraph at lines 274--275
 \TU/TimesNewRoman(0)/m/n/14.4 разрешения и улучшение параметров изображения для
  минимизации
  []
 
-[22]
-Underfull \hbox (badness 10000) in paragraph at lines 284--285
+
+Underfull \hbox (badness 10000) in paragraph at lines 276--277
 []\TU/TimesNewRoman(0)/m/n/14.4 Какие существуют рекомендации разрешению и «вес
 у»
  []
 
 
-Underfull \hbox (badness 1824) in paragraph at lines 286--289
+Underfull \hbox (badness 1824) in paragraph at lines 278--281
 \TU/TimesNewRoman(0)/m/n/14.4 Вес файла должен быть не больше 80–100 килобайт д
 ля стандартных
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 286--289
+Underfull \hbox (badness 10000) in paragraph at lines 278--281
 \TU/TimesNewRoman(0)/m/n/14.4 изображений и не более 250 килобайт для больших и
 зображений.
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 286--289
+Underfull \hbox (badness 2884) in paragraph at lines 278--281
 \TU/TimesNewRoman(0)/m/n/14.4 Использовать подходящие форматы (JPEG, PNG, WebP)
  и сжатие для
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 292--293
+Underfull \hbox (badness 1092) in paragraph at lines 284--285
 \TU/TimesNewRoman(0)/m/n/14.4 и другие цвета, которые легко запоминаются и важн
 ы для восприятия.
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 296--301
+Underfull \hbox (badness 2027) in paragraph at lines 288--293
 \TU/TimesNewRoman(0)/m/n/14.4 правильных пропорций и единообразных размеров на 
 одной странице.
  []
@@ -780,10 +778,10 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8625 strings out of 476026
- 222281 string characters out of 5795041
+ 8606 strings out of 476026
+ 221875 string characters out of 5795041
  1928839 words of memory out of 5000000
- 30614 multiletter control sequences out of 15000+600000
+ 30595 multiletter control sequences out of 15000+600000
  560675 words of font info for 62 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
  84i,11n,99p,413b,604s stack positions out of 10000i,1000n,20000p,200000b,200000s

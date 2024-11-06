@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  1 NOV 2024 00:11
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  6 NOV 2024 13:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -800,9 +800,9 @@ Underfull \hbox (badness 2582) in paragraph at lines 322--323
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 325--326
-[]\TU/TimesNewRoman(0)/m/n/14.4 Отзывы и рейтинги: пользователи должны иметь во
-зможность
+Underfull \hbox (badness 4967) in paragraph at lines 325--326
+[]\TU/TimesNewRoman(0)/m/n/14.4 Сортировка: необходимо реализовать функционал с
+ортировки
  []
 
 

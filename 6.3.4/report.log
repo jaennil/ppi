@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  3 NOV 2024 01:02
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  6 NOV 2024 12:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -495,7 +495,15 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 69--70
  []
 
 [4]
-Underfull \hbox (badness 1701) in paragraph at lines 73--74
+File: 6.3.4/models/auto_diag4.png Graphic file (type bmp)
+<6.3.4/models/auto_diag4.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 75--76
+[][] 
+ []
+
+[5]
+Underfull \hbox (badness 1701) in paragraph at lines 79--80
 []\TU/TimesNewRoman(0)/m/n/14.4 На сайте присутствуют изображения неподходящего
  размера, и в
  []
@@ -503,33 +511,41 @@ Underfull \hbox (badness 1701) in paragraph at lines 73--74
 File: 6.3.4/models/drom_diag1.png Graphic file (type bmp)
 <6.3.4/models/drom_diag1.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 80--81
-[][] 
- []
-
-File: 6.3.4/models/drom_diag2.png Graphic file (type bmp)
-<6.3.4/models/drom_diag2.png>
-
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 86--87
 [][] 
  []
 
-[5]
-File: 6.3.4/models/drom_diag3.png Graphic file (type bmp)
-<6.3.4/models/drom_diag3.png>
+[6]
+File: 6.3.4/models/drom_diag2.png Graphic file (type bmp)
+<6.3.4/models/drom_diag2.png>
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 92--93
 [][] 
  []
 
-[6]
-Underfull \hbox (badness 6348) in paragraph at lines 96--97
+File: 6.3.4/models/drom_diag3.png Graphic file (type bmp)
+<6.3.4/models/drom_diag3.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 98--99
+[][] 
+ []
+
+[7]
+File: 6.3.4/models/drom_diag4.png Graphic file (type bmp)
+<6.3.4/models/drom_diag4.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 104--105
+[][] 
+ []
+
+[8]
+Underfull \hbox (badness 6348) in paragraph at lines 108--109
 []\TU/TimesNewRoman(0)/m/n/14.4 На сайте присутствуют изображения неподходящего
  размера, в
  []
 
 
-Underfull \hbox (badness 7486) in paragraph at lines 96--97
+Underfull \hbox (badness 7486) in paragraph at lines 108--109
 \TU/TimesNewRoman(0)/m/n/14.4 несовременных форматах, в неэффективной кодировке
 . Суммарная
  []
@@ -537,27 +553,43 @@ Underfull \hbox (badness 7486) in paragraph at lines 96--97
 File: 6.3.4/models/sberauto_diag1.png Graphic file (type bmp)
 <6.3.4/models/sberauto_diag1.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 103--104
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 115--116
 [][] 
  []
 
-[7]
+[9]
 File: 6.3.4/models/sberauto_diag2.png Graphic file (type bmp)
 <6.3.4/models/sberauto_diag2.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 109--110
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 121--122
 [][] 
  []
 
 File: 6.3.4/models/sberauto_diag3.png Graphic file (type bmp)
 <6.3.4/models/sberauto_diag3.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 115--116
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 127--128
 [][] 
  []
 
-[8]
-Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[10]
+File: 6.3.4/models/sberauto_diag4.png Graphic file (type bmp)
+<6.3.4/models/sberauto_diag4.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 133--134
+[][] 
+ []
+
+[11]
+File: 6.3.4/models/sberauto_diag5.png Graphic file (type bmp)
+<6.3.4/models/sberauto_diag5.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 139--140
+[][] 
+ []
+
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 143--144
 []\TU/TimesNewRoman(0)/m/n/14.4 На сайте присутствуют изображения неподходящего
  размера.
  []
@@ -565,27 +597,35 @@ Underfull \hbox (badness 10000) in paragraph at lines 119--120
 File: 6.3.4/models/mobile_diag1.png Graphic file (type bmp)
 <6.3.4/models/mobile_diag1.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 126--127
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 150--151
 [][] 
  []
 
 File: 6.3.4/models/mobile_diag2.png Graphic file (type bmp)
 <6.3.4/models/mobile_diag2.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 132--133
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 156--157
 [][] 
  []
 
-[9]
+[13]
 File: 6.3.4/models/mobile_diag3.png Graphic file (type bmp)
 <6.3.4/models/mobile_diag3.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 138--139
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 162--163
 [][] 
  []
 
-[10]
-Underfull \hbox (badness 6348) in paragraph at lines 142--143
+[14]
+File: 6.3.4/models/mobile_diag4.png Graphic file (type bmp)
+<6.3.4/models/mobile_diag4.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 168--169
+[][] 
+ []
+
+[15]
+Underfull \hbox (badness 6348) in paragraph at lines 172--173
 []\TU/TimesNewRoman(0)/m/n/14.4 На сайте присутствуют изображения неподходящего
  размера, в
  []
@@ -593,80 +633,91 @@ Underfull \hbox (badness 6348) in paragraph at lines 142--143
 File: 6.3.4/models/autoscout24_diag1.png Graphic file (type bmp)
 <6.3.4/models/autoscout24_diag1.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 149--150
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 179--180
 [][] 
  []
 
+[16]
 File: 6.3.4/models/autoscout24_diag2.png Graphic file (type bmp)
 <6.3.4/models/autoscout24_diag2.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 155--156
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 185--186
 [][] 
  []
 
-[11]
 File: 6.3.4/models/autoscout24_diag3.png Graphic file (type bmp)
 <6.3.4/models/autoscout24_diag3.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 161--162
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 191--192
 [][] 
  []
 
-[12]
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 172.
+[17]
+File: 6.3.4/models/autoscout24_diag4.png Graphic file (type bmp)
+<6.3.4/models/autoscout24_diag4.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 197--198
+[][] 
+ []
+
+[18]
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 208.
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
 []\TU/TimesNewRoman(0)/m/n/14.4 Учитывая тематику, стиль, палитру, целевую ауди
 торию были
  []
 
+[19]
 File: 6.3.4/models/nature.jpg Graphic file (type bmp)
 <6.3.4/models/nature.jpg>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 189--190
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 225--226
 [][] 
  []
 
 File: 6.3.4/models/step_mashina_loshadi.jpg Graphic file (type bmp)
 <6.3.4/models/step_mashina_loshadi.jpg>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 196--197
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 232--233
 [][] 
  []
 
-[13]
 File: 6.3.4/models/nature_tineye.png Graphic file (type bmp)
 <6.3.4/models/nature_tineye.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 205--206
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 241--242
 [][] 
  []
 
+[20]
 File: 6.3.4/models/step_tineye.png Graphic file (type bmp)
 <6.3.4/models/step_tineye.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 212--213
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 248--249
 [][] 
  []
 
+File: 6.3.4/models/tables.png Graphic file (type bmp)
+<6.3.4/models/tables.png>
 File: 6.3.4/models/figma2.png Graphic file (type bmp)
 <6.3.4/models/figma2.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 219--220
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 261--262
 [][] 
  []
 
-[14]
+[21]
 File: 6.3.4/models/figma1.png Graphic file (type bmp)
 <6.3.4/models/figma1.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 226--227
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 268--269
 [][] 
  []
 
 ! Misplaced alignment tab character &.
-l.231 ...w8qqDFUKFnCIDQb1ri/Untitled?node-id=54-4&
+l.273 ...w8qqDFUKFnCIDQb1ri/Untitled?node-id=54-4&
                                                   t=OsjLYGum8sn4em53-1
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -676,66 +727,66 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Overfull \hbox (12.92415pt too wide) in paragraph at lines 231--232
+Overfull \hbox (12.92415pt too wide) in paragraph at lines 273--274
 []\TU/TimesNewRoman(0)/m/n/14.4 https://www.figma.com/design/25STw8qqDFUKFnCIDQ
 b1ri/Untitled?node-
  []
 
-[15]
-Underfull \hbox (badness 10000) in paragraph at lines 236--237
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
 []\TU/TimesNewRoman(0)/m/n/14.4 Какими критериями определяется подбор изобразит
 ельного
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 238--240
+Underfull \hbox (badness 2368) in paragraph at lines 280--282
 []\TU/TimesNewRoman(0)/m/n/14.4 Соответствие тематике, соответствие аудитории, 
 соответствие стилю и
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 238--240
+Underfull \hbox (badness 1048) in paragraph at lines 280--282
 \TU/TimesNewRoman(0)/m/n/14.4 палитре, соответствие высокому качеству, уникальн
 ость, эмоциональная
  []
 
 
-Underfull \hbox (badness 6364) in paragraph at lines 246--247
+Underfull \hbox (badness 6364) in paragraph at lines 288--289
 []\TU/TimesNewRoman(0)/m/n/14.4 На что необходимо опираться при выборе фотограф
 ических
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 248--249
+Underfull \hbox (badness 10000) in paragraph at lines 290--291
 []\TU/TimesNewRoman(0)/m/n/14.4 На качество изображения, соответствие тематике,
  стиль должен
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 249--250
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
 []\TU/TimesNewRoman(0)/m/n/14.4 Какие существуют рекомендации разрешению и «вес
 у»
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 254--255
+Underfull \hbox (badness 3364) in paragraph at lines 296--297
 []\TU/TimesNewRoman(0)/m/n/14.4 Сжатие изображения без потери качества, подгонк
 а под необходимые
  []
 
-[16] (6.3.4/report.aux)
+[23] (6.3.4/report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8360 strings out of 476026
- 212301 string characters out of 5795041
+ 8493 strings out of 476026
+ 215922 string characters out of 5795041
  1926839 words of memory out of 5000000
- 30339 multiletter control sequences out of 15000+600000
+ 30472 multiletter control sequences out of 15000+600000
  562784 words of font info for 73 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
  84i,11n,96p,279b,328s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 6.3.4/report.pdf (16 pages).
+Output written on 6.3.4/report.pdf (23 pages).

@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  3 NOV 2024 20:53
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  6 NOV 2024 11:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -495,139 +495,184 @@ File: 3.2.3/models/Контакты.pdf Graphic file (type pdf)
  [4]
 File: 3.2.3/models/Footer.pdf Graphic file (type pdf)
 <use 3.2.3/models/Footer.pdf>
+File: 3.2.3/models/Main_comp.pdf Graphic file (type pdf)
+<use 3.2.3/models/Main_comp.pdf>
 
-Underfull \hbox (badness 1859) in paragraph at lines 101--102
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 98--99
+[][] 
+ []
+
+[5]
+File: 3.2.3/models/third_filter.png Graphic file (type bmp)
+<3.2.3/models/third_filter.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 105--106
+[][] 
+ []
+
+File: 3.2.3/models/Filter-1.pdf Graphic file (type pdf)
+<use 3.2.3/models/Filter-1.pdf>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 112--113
+[][] 
+ []
+
+[6]
+File: 3.2.3/models/filter_f_gs.png Graphic file (type bmp)
+<3.2.3/models/filter_f_gs.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 119--120
+[][] 
+ []
+
+File: 3.2.3/models/selected_spiral.pdf Graphic file (type pdf)
+<use 3.2.3/models/selected_spiral.pdf>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 126--127
+[][] 
+ []
+
+[7]
+File: 3.2.3/models/contacts_diag.pdf Graphic file (type pdf)
+<use 3.2.3/models/contacts_diag.pdf>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 133--134
+[][] 
+ []
+
+
+Underfull \hbox (badness 1859) in paragraph at lines 143--144
 []\TU/TimesNewRoman(0)/m/n/14.4 Вайрфреймы (или каркасы) — это низко детализиро
 ванные прототипы
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 101--102
+Underfull \hbox (badness 1320) in paragraph at lines 143--144
 \TU/TimesNewRoman(0)/m/n/14.4 веб-страниц, которые отображают структуру и распо
 ложение элементов
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 101--102
+Underfull \hbox (badness 1102) in paragraph at lines 143--144
 \TU/TimesNewRoman(0)/m/n/14.4 интерфейса, таких как кнопки, изображения и текст
 . Они служат для
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+[8]
+Underfull \hbox (badness 10000) in paragraph at lines 148--149
 []\TU/TimesNewRoman(0)/m/n/14.4 Среднеполигональные вайрфреймы: более детализир
 ованные,
  []
 
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
+
+Underfull \hbox (badness 10000) in paragraph at lines 149--150
 []\TU/TimesNewRoman(0)/m/n/14.4 Высокополигональные вайрфреймы: почти полноценн
 ые
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--112
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
 []\TU/TimesNewRoman(0)/m/n/14.4 Расположение элементов страниц критически важно
  для удобства
  []
 
 
-Underfull \hbox (badness 1303) in paragraph at lines 111--112
+Underfull \hbox (badness 1303) in paragraph at lines 153--154
 \TU/TimesNewRoman(0)/m/n/14.4 использования и восприятия информации пользовател
 ями. Правильное
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--114
+Underfull \hbox (badness 10000) in paragraph at lines 154--156
 []\TU/TimesNewRoman(0)/m/n/14.4 Какие правила композиции при расположении элеме
 нтов
  []
 
 
-Underfull \hbox (badness 7722) in paragraph at lines 114--115
+Underfull \hbox (badness 7722) in paragraph at lines 156--157
 []\TU/TimesNewRoman(0)/m/n/14.4 Правило третей: делит страницу на три равные ча
 сти по
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 156--157
 \TU/TimesNewRoman(0)/m/n/14.4 горизонтали и вертикали, что помогает создать сба
 лансированную
  []
 
 
-Underfull \hbox (badness 6978) in paragraph at lines 115--116
+Underfull \hbox (badness 6978) in paragraph at lines 157--158
 []\TU/TimesNewRoman(0)/m/n/14.4 Золотое сечение: пропорция, которая считается э
 стетически
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 117--118
+Underfull \hbox (badness 1661) in paragraph at lines 159--160
 []\TU/TimesNewRoman(0)/m/n/14.4 Негативное пространство: использование пустого 
 пространства
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 123--124
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
 []\TU/TimesNewRoman(0)/m/n/14.4 Близость: элементы, расположенные близко друг к
  другу,
  []
 
-
-Underfull \hbox (badness 2922) in paragraph at lines 125--126
+[9]
+Underfull \hbox (badness 2922) in paragraph at lines 167--168
 []\TU/TimesNewRoman(0)/m/n/14.4 Повторение: повторяющиеся стили создают визуаль
 ную связь
  []
 
-[6]
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
 []\TU/TimesNewRoman(0)/m/n/14.4 Figma: популярный инструмент для совместной раб
 оты и
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 135--136
+Underfull \hbox (badness 1546) in paragraph at lines 177--178
 []\TU/TimesNewRoman(0)/m/n/14.4 Sketch: программа для проектирования интерфейсо
 в, особенно
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 179--180
 []\TU/TimesNewRoman(0)/m/n/14.4 Miro: платформа для совместной работы, которая 
 также
  []
 
 
-Underfull \hbox (badness 3724) in paragraph at lines 139--140
+Underfull \hbox (badness 3724) in paragraph at lines 181--182
 []\TU/TimesNewRoman(0)/m/n/14.4 draw.io: бесплатный онлайн-сервис для создания 
 диаграмм и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--142
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
 []\TU/TimesNewRoman(0)/m/n/14.4 Как учитывается линия фолда и область терминала
  при
  []
 
 
-Underfull \hbox (badness 5231) in paragraph at lines 143--144
+Underfull \hbox (badness 5231) in paragraph at lines 185--186
 []\TU/TimesNewRoman(0)/m/n/14.4 Линия фолда — это граница, ниже которой пользов
 атели могут не
  []
 
-[7] (3.2.3/report.aux)
+[10] (3.2.3/report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7997 strings out of 476026
- 202789 string characters out of 5795041
+ 8080 strings out of 476026
+ 205237 string characters out of 5795041
  1927839 words of memory out of 5000000
- 29988 multiletter control sequences out of 15000+600000
+ 30070 multiletter control sequences out of 15000+600000
  559577 words of font info for 59 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
  84i,11n,96p,420b,427s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 3.2.3/report.pdf (7 pages).
+Output written on 3.2.3/report.pdf (10 pages).

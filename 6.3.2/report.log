@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  31 OCT 2024 22:11
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  6 NOV 2024 13:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -579,6 +579,7 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 84--85
 [][] 
  []
 
+[4]
 File: 6.3.2/models/autoscout24_com_pallete.png Graphic file (type bmp)
 <6.3.2/models/autoscout24_com_pallete.png>
 
@@ -586,142 +587,99 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 91--92
 [][] 
  []
 
-[4]
-File: 6.3.2/models/auto_logo.pdf Graphic file (type pdf)
-<use 6.3.2/models/auto_logo.pdf>
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 101--102
-[][] 
- []
-
-File: 6.3.2/models/drom_logo.png Graphic file (type bmp)
-<6.3.2/models/drom_logo.png>
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 108--109
-[][] 
- []
-
-File: 6.3.2/models/sberauto_logo.png Graphic file (type bmp)
-<6.3.2/models/sberauto_logo.png>
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 115--116
-[][] 
- []
-
+File: 6.3.2/models/table.png Graphic file (type bmp)
+<6.3.2/models/table.png>
 [5]
-File: 6.3.2/models/mobile_logo.png Graphic file (type bmp)
-<6.3.2/models/mobile_logo.png>
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 122--123
-[][] 
- []
-
-File: 6.3.2/models/autoscout_logo.png Graphic file (type bmp)
-<6.3.2/models/autoscout_logo.png>
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 130--131
-[][] 
- []
-
-> Step: init table outer spec.
-> Step: parse table options.
-> Step: split table.
-> Step: init table inner spec.
-> Step: parse table inner spec.
-> Step: execute table commands.
-> Step: calculate cell and line sizes.
-> Step: build the whole table.
-[6]
-Underfull \hbox (badness 2126) in paragraph at lines 164--165
+Underfull \hbox (badness 2126) in paragraph at lines 110--111
 \TU/TimesNewRoman(0)/m/n/14.4 предпочтениями целевой аудитории. Стиль сайта дол
 жен гармонично
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 167--168
+Underfull \hbox (badness 1132) in paragraph at lines 113--114
 []\TU/TimesNewRoman(0)/m/n/14.4 Айдентика – это набор визуальных и смысловых эл
 ементов, таких как
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 167--168
+Underfull \hbox (badness 1436) in paragraph at lines 113--114
 \TU/TimesNewRoman(0)/m/n/14.4 логотип, цветовая палитра, фирменный стиль, типог
 рафика и мудборд,
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+[6]
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 []\TU/TimesNewRoman(0)/m/n/14.4 Рекомендуется использовать 3-4 основных цвета в
  интерфейсе:
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
 \TU/TimesNewRoman(0)/m/n/14.4 один доминирующий, один акцентный и один-два допо
 лнительных.
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 173--174
+Underfull \hbox (badness 1158) in paragraph at lines 119--120
 []\TU/TimesNewRoman(0)/m/n/14.4 Психология цвета помогает создавать эмоциональн
 ые отклики и влияет
  []
 
-[7]
-Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--124
 \TU/TimesNewRoman(0)/m/n/14.4 дизайн), комплементарная (сочетание противоположн
 ых на цветовом
  []
 
 
-Underfull \hbox (badness 2790) in paragraph at lines 176--178
+Underfull \hbox (badness 2790) in paragraph at lines 122--124
 \TU/TimesNewRoman(0)/m/n/14.4 круге оттенков для контраста), аналогичная (сосед
 ние цвета на круге
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 176--178
+Underfull \hbox (badness 10000) in paragraph at lines 122--124
 \TU/TimesNewRoman(0)/m/n/14.4 заключаются в уровне контраста и гармонии, создав
 аемом при их
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 []\TU/TimesNewRoman(0)/m/n/14.4 Цвет для веб-ресурсов кодируется в системах HEX
 , RGB и HSL.
  []
 
 
-Underfull \hbox (badness 5578) in paragraph at lines 180--181
+Underfull \hbox (badness 5578) in paragraph at lines 126--127
 \TU/TimesNewRoman(0)/m/n/14.4 HEX используется наиболее часто, так как удобно о
 тображает цвет
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 180--181
+Underfull \hbox (badness 10000) in paragraph at lines 126--127
 \TU/TimesNewRoman(0)/m/n/14.4 в шестнадцатеричном формате (#RRGGBB). RGB опреде
 ляет цвет
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 180--181
+Underfull \hbox (badness 1142) in paragraph at lines 126--127
 \TU/TimesNewRoman(0)/m/n/14.4 насыщенностью и светлотой. Эти системы помогают р
 азработчикам и
  []
 
-[8] (6.3.2/report.aux)
+[7] (6.3.2/report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8250 strings out of 476026
- 210924 string characters out of 5795041
- 1936839 words of memory out of 5000000
- 30239 multiletter control sequences out of 15000+600000
- 560785 words of font info for 63 fonts, out of 8000000 for 9000
+ 8034 strings out of 476026
+ 204041 string characters out of 5795041
+ 1926839 words of memory out of 5000000
+ 30024 multiletter control sequences out of 15000+600000
+ 559577 words of font info for 59 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
- 84i,11n,99p,464b,666s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,96p,464b,329s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 6.3.2/report.pdf (8 pages).
+Output written on 6.3.2/report.pdf (7 pages).
