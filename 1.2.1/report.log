@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  7 NOV 2024 23:39
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  8 NOV 2024 16:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -627,17 +627,28 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 98--99
  []
 
 [5]
+Underfull \hbox (badness 3503) in paragraph at lines 103--104
+[]\TU/TimesNewRoman(0)/m/n/14.4 Из недостатков сайта можно выделить слишком дли
+нную ленту
+ []
+
+
+Underfull \hbox (badness 1199) in paragraph at lines 103--104
+\TU/TimesNewRoman(0)/m/n/14.4 времени. Вместо огромной ленты можно было сделать
+ небольшую, и
+ []
+
 File: 1.2.1/models/drom.ru.png Graphic file (type bmp)
 <1.2.1/models/drom.ru.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 107--108
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 109--110
 [][] 
  []
 
 File: 1.2.1/models/drom.ru2.png Graphic file (type bmp)
 <1.2.1/models/drom.ru2.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 114--115
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 116--117
 [][] 
  []
 
@@ -645,14 +656,20 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 114--115
 File: 1.2.1/models/drom.ru3.png Graphic file (type bmp)
 <1.2.1/models/drom.ru3.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 121--122
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 123--124
 [][] 
+ []
+
+
+Underfull \hbox (badness 1194) in paragraph at lines 128--129
+[]\TU/TimesNewRoman(0)/m/n/14.4 У drom.ru меньше фильтров чем у auto.ru, а такж
+е использованы
  []
 
 File: 1.2.1/models/sberauto.com.png Graphic file (type bmp)
 <1.2.1/models/sberauto.com.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 130--131
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 134--135
 [][] 
  []
 
@@ -660,14 +677,14 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 130--131
 File: 1.2.1/models/sberauto.com2.png Graphic file (type bmp)
 <1.2.1/models/sberauto.com2.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 137--138
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 141--142
 [][] 
  []
 
 File: 1.2.1/models/sberauto.com3.png Graphic file (type bmp)
 <1.2.1/models/sberauto.com3.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 144--145
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 148--149
 [][] 
  []
 
@@ -675,14 +692,14 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 144--145
 File: 1.2.1/models/mobile.de.png Graphic file (type bmp)
 <1.2.1/models/mobile.de.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 153--154
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 159--160
 [][] 
  []
 
 File: 1.2.1/models/mobile.de2.png Graphic file (type bmp)
 <1.2.1/models/mobile.de2.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 160--161
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 166--167
 [][] 
  []
 
@@ -690,14 +707,14 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 160--161
 File: 1.2.1/models/mobile.de3.png Graphic file (type bmp)
 <1.2.1/models/mobile.de3.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 167--168
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 173--174
 [][] 
  []
 
 File: 1.2.1/models/autoscout24.com.png Graphic file (type bmp)
 <1.2.1/models/autoscout24.com.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 176--177
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 184--185
 [][] 
  []
 
@@ -705,18 +722,23 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 176--177
 File: 1.2.1/models/autoscout24.com2.png Graphic file (type bmp)
 <1.2.1/models/autoscout24.com2.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 183--184
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 191--192
 [][] 
  []
 
 File: 1.2.1/models/autoscout24.com3.png Graphic file (type bmp)
 <1.2.1/models/autoscout24.com3.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 190--191
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 198--199
 [][] 
  []
 
 [11]
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+[]\TU/TimesNewRoman(0)/m/n/14.4 autoscout24.com имеет много фильтров, современн
+ый дизайн с
+ []
+
 > Step: init table outer spec.
 > Step: parse table options.
 > Step: split table.
@@ -726,165 +748,165 @@ Overfull \hbox (6.79999pt too wide) in paragraph at lines 190--191
 > Step: calculate cell and line sizes.
 > Step: build the whole table.
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 238.
- [12]
-Underfull \hbox (badness 2828) in paragraph at lines 256--258
+(Font)              <6> on input line 251.
+[12]
+Underfull \hbox (badness 2828) in paragraph at lines 269--271
 \TU/TimesNewRoman(0)/m/n/14.4 Да, сотрудничество с автосалонами и дилерами для 
 увеличения базы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--262
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
 \TU/TimesNewRoman(0)/m/n/14.4 Сильные стороны конкурентов — широкий выбор автом
 обилей и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--262
+Underfull \hbox (badness 10000) in paragraph at lines 273--275
 \TU/TimesNewRoman(0)/m/n/14.4 развитая база пользователей. Слабые стороны — нед
 остатки в
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 266--268
+[13]
+Underfull \hbox (badness 10000) in paragraph at lines 279--281
 \TU/TimesNewRoman(0)/m/n/14.4 На сайте будут представлены легковые автомобили, 
 внедорожники,
  []
 
-[13]
-Underfull \hbox (badness 1960) in paragraph at lines 285--287
+
+Underfull \hbox (badness 1960) in paragraph at lines 298--300
 []\TU/TimesNewRoman(0)/m/n/14.4 Какие сайты вы уже использовали для покупки или
  продажи
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 287--289
+Underfull \hbox (badness 10000) in paragraph at lines 300--302
 \TU/TimesNewRoman(0)/m/n/14.4 объявлений, но иногда сложно найти нужный автомоб
 иль из-за
  []
 
-
-Underfull \hbox (badness 7362) in paragraph at lines 291--293
+[14]
+Underfull \hbox (badness 7362) in paragraph at lines 304--306
 []\TU/TimesNewRoman(0)/m/n/14.4 С какими трудностями вы сталкивались при исполь
 зовании
  []
 
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 301--303
+
+Underfull \hbox (badness 10000) in paragraph at lines 314--316
 \TU/TimesNewRoman(0)/m/n/14.4 (например, управление объявлениями, история покуп
 ок/продаж,
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 303--305
+Underfull \hbox (badness 3386) in paragraph at lines 316--318
 []\TU/TimesNewRoman(0)/m/n/14.4 Готовы ли вы платить за дополнительные услуги (
 например,
  []
 
 [15]
-Underfull \hbox (badness 1742) in paragraph at lines 330--331
+Underfull \hbox (badness 1742) in paragraph at lines 343--344
 []\TU/TimesNewRoman(0)/m/n/14.4 редактирование и удаление объявлений - пользова
 тели должны
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 333--334
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
 []\TU/TimesNewRoman(0)/m/n/14.4 сравнение автомобилей - возможность сравнения н
 ескольких
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 334--335
+Underfull \hbox (badness 1603) in paragraph at lines 347--348
 []\TU/TimesNewRoman(0)/m/n/14.4 связь с продавцом - возможность связаться с про
 давцом через
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 335--336
+Underfull \hbox (badness 1661) in paragraph at lines 348--349
 []\TU/TimesNewRoman(0)/m/n/14.4 интеграция с картами - возможность указания мес
 тоположения
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 336--337
+Underfull \hbox (badness 10000) in paragraph at lines 349--350
 []\TU/TimesNewRoman(0)/m/n/14.4 регистрация и авторизация - пользователи должны
  иметь
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 352--353
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 365--366
 []\TU/TimesNewRoman(0)/m/n/14.4 добавление новых фильтров для поиска авто, инст
 рументов
  []
 
-[16]
-Underfull \hbox (badness 5726) in paragraph at lines 364--365
+
+Underfull \hbox (badness 5726) in paragraph at lines 377--378
 []\TU/TimesNewRoman(0)/m/n/14.4 Информационные сайты - предназначены для предос
 тавления
  []
 
 
-Underfull \hbox (badness 6173) in paragraph at lines 365--366
+Underfull \hbox (badness 6173) in paragraph at lines 378--379
 []\TU/TimesNewRoman(0)/m/n/14.4 Электронные коммерческие площадки - позволяют п
 роводить
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 369--370
+Underfull \hbox (badness 10000) in paragraph at lines 382--383
 []\TU/TimesNewRoman(0)/m/n/14.4 Что такое эвристический анализ? Методика провед
 ения
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 371--372
+Underfull \hbox (badness 10000) in paragraph at lines 384--385
 []\TU/TimesNewRoman(0)/m/n/14.4 Эвристический анализ - это метод оценки удобств
 а использования
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 375--376
+Underfull \hbox (badness 1990) in paragraph at lines 388--389
 []\TU/TimesNewRoman(0)/m/n/14.4 выбор эвристик - определение набора эвристик (э
 мпирических
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 376--377
+Underfull \hbox (badness 10000) in paragraph at lines 389--390
 []\TU/TimesNewRoman(0)/m/n/14.4 оценка интерфейса - эксперты оценивают интерфей
 с на
  []
 
-
-Underfull \hbox (badness 2512) in paragraph at lines 382--383
+[17]
+Underfull \hbox (badness 2512) in paragraph at lines 395--396
 []\TU/TimesNewRoman(0)/m/n/14.4 Бриф - это документ, содержащий основные требов
 ания и пожелания
  []
 
-[17]
-Underfull \hbox (badness 1789) in paragraph at lines 392--393
+
+Underfull \hbox (badness 1789) in paragraph at lines 405--406
 []\TU/TimesNewRoman(0)/m/n/14.4 Как правильно сформулировать цель и задачи прое
 ктирования
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 394--396
+Underfull \hbox (badness 2990) in paragraph at lines 407--409
 \TU/TimesNewRoman(0)/m/n/14.4 потребностей пользователей, разработка информацио
 нной архитектуры,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 394--396
+Underfull \hbox (badness 10000) in paragraph at lines 407--409
 \TU/TimesNewRoman(0)/m/n/14.4 проектирование пользовательского интерфейса. А дл
 я правильной
  []
 
 
-Underfull \hbox (badness 3088) in paragraph at lines 398--399
+Underfull \hbox (badness 3088) in paragraph at lines 411--412
 []\TU/TimesNewRoman(0)/m/n/14.4 Удобство использования: интерфейс должен быть и
 нтуитивно
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 402--403
+Underfull \hbox (badness 3872) in paragraph at lines 415--416
 []\TU/TimesNewRoman(0)/m/n/14.4 Адаптивность: интерфейс должен корректно отобра
 жаться на
  []
@@ -898,7 +920,7 @@ L3 programming layer <2024-02-20>
 Here is how much of TeX's memory you used:
  8500 strings out of 476026
  217812 string characters out of 5795041
- 1951839 words of memory out of 5000000
+ 1952839 words of memory out of 5000000
  30480 multiletter control sequences out of 15000+600000
  564447 words of font info for 76 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
