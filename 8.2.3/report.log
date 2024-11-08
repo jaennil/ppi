@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  5 NOV 2024 12:03
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  8 NOV 2024 09:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -726,461 +726,462 @@ Underfull \hbox (badness 2762) in paragraph at lines 106--107
  позволяет
  []
 
+File: 8.2.3/models/f.png Graphic file (type bmp)
+<8.2.3/models/f.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
-[]\TU/TimesNewRoman(0)/m/n/14.4 Сеточная структура: Применение модульной сетки 
-помогает
- []
-
-
-Underfull \hbox (badness 2158) in paragraph at lines 116--117
-\TU/TimesNewRoman(0)/m/n/14.4 перегруженности. Пространство помогает акцентиров
-ать внимание на
- []
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 115.
+See the caption package documentation for explanation.
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 120--121
-\TU/TimesNewRoman(0)/m/n/14.4 экранах. Sans-serif шрифты, такие как Open Sans и
-ли Roboto, часто
- []
-
-
-Underfull \hbox (badness 8113) in paragraph at lines 124--125
-[]\TU/TimesNewRoman(0)/m/n/14.4 Текстовые блоки: Ограничьте количество текста н
-а экране и
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 130--131
-[]\TU/TimesNewRoman(0)/m/n/14.4 Мультимедийный контент: Включение изображений, 
-видео и
- []
-
-
-Underfull \hbox (badness 3386) in paragraph at lines 130--131
-\TU/TimesNewRoman(0)/m/n/14.4 анимации может улучшить взаимодействие, но важно 
-оптимизировать
- []
-
-[5]
-Underfull \hbox (badness 4981) in paragraph at lines 134--135
-[]\TU/TimesNewRoman(0)/m/n/14.4 12 столбцов — одна из самых удобных сеток для м
-обильных
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 114--115
+[][] 
  []
 
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <6> on input line 146.
+(Font)              <7> on input line 116.
+File: 8.2.3/models/coolors5.png Graphic file (type bmp)
+<8.2.3/models/coolors5.png>
 
-Underfull \hbox (badness 1629) in paragraph at lines 150--150
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 124.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 123--124
+[][] 
+ []
+
+[5]
+File: 8.2.3/models/mix.png Graphic file (type bmp)
+<8.2.3/models/mix.png>
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 133.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 132--133
+[][] 
+ []
+
+File: 8.2.3/models/grid.png Graphic file (type bmp)
+<8.2.3/models/grid.png>
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 142.
+See the caption package documentation for explanation.
+
+[6] [7]
+LaTeX Font Info:    External font `cmex7' loaded for size
+(Font)              <6> on input line 154.
+
+Underfull \hbox (badness 1629) in paragraph at lines 158--158
 []\TU/TimesNewRoman(0)/m/n/12 Цветовая палитра Material
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 150--151
+Underfull \hbox (badness 10000) in paragraph at lines 158--159
 \TU/TimesNewRoman(0)/m/n/12 цвета для акцентов,
  []
 
 
-Underfull \hbox (badness 3525) in paragraph at lines 150--151
+Underfull \hbox (badness 3525) in paragraph at lines 158--159
 \TU/TimesNewRoman(0)/m/n/12 должны быть доступными для
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 152--152
+Underfull \hbox (badness 3058) in paragraph at lines 160--160
 []\TU/TimesNewRoman(0)/m/n/12 Material использует набор
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--152
+Underfull \hbox (badness 10000) in paragraph at lines 160--160
 \TU/TimesNewRoman(0)/m/n/12 шрифтов, в основном
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 152--153
+Underfull \hbox (badness 10000) in paragraph at lines 160--161
 []\TU/TimesNewRoman(0)/m/n/12 Стремитесь к ясности и
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 152--153
+Underfull \hbox (badness 1253) in paragraph at lines 160--161
 \TU/TimesNewRoman(0)/m/n/12 от 12 до 96 px для различных
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 154--154
+Underfull \hbox (badness 10000) in paragraph at lines 162--162
 []\TU/TimesNewRoman(0)/m/n/12 Простые, монотонные,
  []
 
 
-Underfull \hbox (badness 3460) in paragraph at lines 154--154
+Underfull \hbox (badness 3460) in paragraph at lines 162--162
 \TU/TimesNewRoman(0)/m/n/12 легко читаемые иконки с
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 154--155
+Underfull \hbox (badness 1478) in paragraph at lines 162--163
 \TU/TimesNewRoman(0)/m/n/12 Используйте Material Icons или
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--156
+Underfull \hbox (badness 10000) in paragraph at lines 164--164
 \TU/TimesNewRoman(0)/m/n/12 создавая гармоничную
  []
 
 
-Underfull \hbox (badness 5802) in paragraph at lines 156--157
+Underfull \hbox (badness 5802) in paragraph at lines 164--165
 []\TU/TimesNewRoman(0)/m/n/12 Стандартный отступ — 8 dp.
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 156--157
+Underfull \hbox (badness 2744) in paragraph at lines 164--165
 \TU/TimesNewRoman(0)/m/n/12 Сетки 4 и 8 dp обеспечивают
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 156--157
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 \TU/TimesNewRoman(0)/m/n/12 аккуратное расположение
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 []\TU/TimesNewRoman(0)/m/n/12 Карточки группируют
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 158--158
+Underfull \hbox (badness 10000) in paragraph at lines 166--166
 \TU/TimesNewRoman(0)/m/n/12 информацию и действия
  []
 
 
-Underfull \hbox (badness 2302) in paragraph at lines 158--159
+Underfull \hbox (badness 2302) in paragraph at lines 166--167
 \TU/TimesNewRoman(0)/m/n/12 углы. Размеры иерархичны и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
 []\TU/TimesNewRoman(0)/m/n/12 Кнопки используют
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
 \TU/TimesNewRoman(0)/m/n/12 понятные действия и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--160
+Underfull \hbox (badness 10000) in paragraph at lines 168--168
 \TU/TimesNewRoman(0)/m/n/12 предлагают кликать по
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 160--161
+Underfull \hbox (badness 2150) in paragraph at lines 168--169
 []\TU/TimesNewRoman(0)/m/n/12 Основные кнопки – акцентные
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 160--161
+Underfull \hbox (badness 10000) in paragraph at lines 168--169
 \TU/TimesNewRoman(0)/m/n/12 цвета, а второстепенные –
  []
 
 
-Underfull \hbox (badness 5288) in paragraph at lines 160--161
+Underfull \hbox (badness 5288) in paragraph at lines 168--169
 \TU/TimesNewRoman(0)/m/n/12 приглушенные. Закруглённые
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
 []\TU/TimesNewRoman(0)/m/n/12 Анимация и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
 []\TU/TimesNewRoman(0)/m/n/12 Анимации добавляют
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
 \TU/TimesNewRoman(0)/m/n/12 интерактивности и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
 \TU/TimesNewRoman(0)/m/n/12 помогают пользователям
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--162
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
 \TU/TimesNewRoman(0)/m/n/12 понять результаты своих
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
 []\TU/TimesNewRoman(0)/m/n/12 Анимации должны быть
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
 \TU/TimesNewRoman(0)/m/n/12 короткими (до 300 мс) и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 170--171
 \TU/TimesNewRoman(0)/m/n/12 поддерживать естественность
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--164
+Underfull \hbox (badness 10000) in paragraph at lines 172--172
 []\TU/TimesNewRoman(0)/m/n/12 Касания, жесты и
  []
 
 
-Underfull \hbox (badness 2096) in paragraph at lines 164--164
+Underfull \hbox (badness 2096) in paragraph at lines 172--172
 \TU/TimesNewRoman(0)/m/n/12 поведение взаимодействий
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
 []\TU/TimesNewRoman(0)/m/n/12 Минимальный размер для
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
 \TU/TimesNewRoman(0)/m/n/12 кликабельных областей –
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--165
+Underfull \hbox (badness 10000) in paragraph at lines 172--173
 \TU/TimesNewRoman(0)/m/n/12 48x48 dp. Жесты должны
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 []\TU/TimesNewRoman(0)/m/n/12 Поверхности и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 []\TU/TimesNewRoman(0)/m/n/12 Система поверхностей
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 \TU/TimesNewRoman(0)/m/n/12 основана на Z-оси, что
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 166--166
+Underfull \hbox (badness 10000) in paragraph at lines 174--174
 \TU/TimesNewRoman(0)/m/n/12 помогает организовать
  []
 
 
-Underfull \hbox (badness 3815) in paragraph at lines 166--167
+Underfull \hbox (badness 3815) in paragraph at lines 174--175
 \TU/TimesNewRoman(0)/m/n/12 обозначения слоев, акцентируя
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 []\TU/TimesNewRoman(0)/m/n/12 Состояния
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 []\TU/TimesNewRoman(0)/m/n/12 Состояния (нажато,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 \TU/TimesNewRoman(0)/m/n/12 наведено, отключено)
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 \TU/TimesNewRoman(0)/m/n/12 помогают пользователям
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--168
+Underfull \hbox (badness 10000) in paragraph at lines 176--176
 \TU/TimesNewRoman(0)/m/n/12 понять текущую
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
 []\TU/TimesNewRoman(0)/m/n/12 Обозначайте состояния с
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 168--169
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
 \TU/TimesNewRoman(0)/m/n/12 помощью цветов и тени.
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 168--169
+Underfull \hbox (badness 1147) in paragraph at lines 176--177
 \TU/TimesNewRoman(0)/m/n/12 выглядеть приглушённо и быть
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
 []\TU/TimesNewRoman(0)/m/n/12 Форма
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
 []\TU/TimesNewRoman(0)/m/n/12 Закругленные углы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
 \TU/TimesNewRoman(0)/m/n/12 и плавные переходы
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
 \TU/TimesNewRoman(0)/m/n/12 делают интерфейс
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--170
+Underfull \hbox (badness 10000) in paragraph at lines 178--178
 \TU/TimesNewRoman(0)/m/n/12 более дружественным и
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 170--171
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
 []\TU/TimesNewRoman(0)/m/n/12 Рекомендуется закругление от
  []
 
 
-Underfull \hbox (badness 3364) in paragraph at lines 170--171
+Underfull \hbox (badness 3364) in paragraph at lines 178--179
 \TU/TimesNewRoman(0)/m/n/12 4 до 16 dp в зависимости от
  []
 
-[6]
+[8]
 File: 8.2.3/models/m3_1.png Graphic file (type bmp)
 <8.2.3/models/m3_1.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 177--178
-[][] 
- []
-
-LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 178.
-[7]
-File: 8.2.3/models/m3_2.png Graphic file (type bmp)
-<8.2.3/models/m3_2.png>
- [8]
-File: 8.2.3/models/my1.png Graphic file (type bmp)
-<8.2.3/models/my1.png>
-
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 189--190
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 185--186
 [][] 
  []
 
 [9]
-File: 8.2.3/models/my2.png Graphic file (type bmp)
-<8.2.3/models/my2.png>
+File: 8.2.3/models/m3_2.png Graphic file (type bmp)
+<8.2.3/models/m3_2.png>
+ [10]
+File: 8.2.3/models/my1.png Graphic file (type bmp)
+<8.2.3/models/my1.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 195--196
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 197--198
 [][] 
  []
 
-File: 8.2.3/models/my3.png Graphic file (type bmp)
-<8.2.3/models/my3.png>
-[10]
-File: 8.2.3/models/my4.png Graphic file (type bmp)
-<8.2.3/models/my4.png>
- [11]
+[11]
+File: 8.2.3/models/my2.png Graphic file (type bmp)
+<8.2.3/models/my2.png>
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 203--204
+[][] 
+ []
+
 File: 8.2.3/models/my5.png Graphic file (type bmp)
 <8.2.3/models/my5.png>
- [12]
 File: 8.2.3/models/my6.png Graphic file (type bmp)
 <8.2.3/models/my6.png>
+[12]
+File: 8.2.3/models/my3.png Graphic file (type bmp)
+<8.2.3/models/my3.png>
+File: 8.2.3/models/my4.png Graphic file (type bmp)
+<8.2.3/models/my4.png>
  [13]
 File: 8.2.3/models/my7.png Graphic file (type bmp)
 <8.2.3/models/my7.png>
- [14]
 File: 8.2.3/models/my8.png Graphic file (type bmp)
 <8.2.3/models/my8.png>
- [15]
-Underfull \hbox (badness 10000) in paragraph at lines 243--246
+ [14]
+Underfull \hbox (badness 10000) in paragraph at lines 233--236
 [][]$[][][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][]
 [][][][][][][][][][][][][][][][][][][][] [] [][][] []
  []
 
-
-Underfull \hbox (badness 2189) in paragraph at lines 250--251
+[15]
+Underfull \hbox (badness 2189) in paragraph at lines 240--241
 []\TU/TimesNewRoman(0)/m/n/14.4 Что такое мобильное приложение? Цели и задачи U
 X моб-
  []
 
-[16]
-Underfull \hbox (badness 6380) in paragraph at lines 252--253
+
+Underfull \hbox (badness 6380) in paragraph at lines 242--243
 \TU/TimesNewRoman(0)/m/n/14.4 и приятного пользовательского опыта, повышение уд
 овлетворенности
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 252--253
+Underfull \hbox (badness 10000) in paragraph at lines 242--243
 \TU/TimesNewRoman(0)/m/n/14.4 изучение потребностей пользователей, проектирован
 ие интерфейсов,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+Underfull \hbox (badness 10000) in paragraph at lines 244--245
 []\TU/TimesNewRoman(0)/m/n/14.4 Специфика разработки интерфейса мобильного прил
 ожения.
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 256--257
+Underfull \hbox (badness 1527) in paragraph at lines 246--247
 \TU/TimesNewRoman(0)/m/n/14.4 в необходимости учитывать ограниченные размеры эк
 ранов, различные
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 260--261
+Underfull \hbox (badness 10000) in paragraph at lines 250--251
 []\TU/TimesNewRoman(0)/m/n/14.4 Юзабилити мобильного приложения — это мера его 
 удобства и
  []
 
 
-Underfull \hbox (badness 3108) in paragraph at lines 260--261
+Underfull \hbox (badness 3108) in paragraph at lines 250--251
 \TU/TimesNewRoman(0)/m/n/14.4 эффективности для пользователя. Ключевые паттерны
  использования
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 260--261
+Underfull \hbox (badness 1132) in paragraph at lines 250--251
 \TU/TimesNewRoman(0)/m/n/14.4 кликабельности и внедрение привычных жестов (свай
 п, прокрутка) для
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 266--267
+Underfull \hbox (badness 10000) in paragraph at lines 256--257
 []\TU/TimesNewRoman(0)/m/n/14.4 Принципы визуальной иерархии элементов интерфей
 са
  []
 
-[17]
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+[16]
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
 \TU/TimesNewRoman(0)/m/n/14.4 включают объяснение основных функций, привлечение
  внимания
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
 \TU/TimesNewRoman(0)/m/n/14.4 пользователя к ключевым особенностям и повышение 
 лояльности.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 272--273
+Underfull \hbox (badness 10000) in paragraph at lines 262--263
 \TU/TimesNewRoman(0)/m/n/14.4 Основные принципы онбординга включают краткость, 
 визуальную
  []
 
 
-Underfull \hbox (badness 2495) in paragraph at lines 272--273
+Underfull \hbox (badness 2495) in paragraph at lines 262--263
 \TU/TimesNewRoman(0)/m/n/14.4 пропуска и предоставление прогресс-баров, чтобы п
 ользователи могли
  []
 
-[18] (8.2.3/report.aux)
+[17] (8.2.3/report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
@@ -1189,12 +1190,12 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15156 strings out of 476026
- 312432 string characters out of 5795041
+ 15238 strings out of 476026
+ 314062 string characters out of 5795041
  1933839 words of memory out of 5000000
- 37031 multiletter control sequences out of 15000+600000
- 563144 words of font info for 74 fonts, out of 8000000 for 9000
+ 37111 multiletter control sequences out of 15000+600000
+ 563152 words of font info for 75 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
- 84i,12n,96p,543b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,96p,543b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 8.2.3/report.pdf (18 pages).
+Output written on 8.2.3/report.pdf (17 pages).

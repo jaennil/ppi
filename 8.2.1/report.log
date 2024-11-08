@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  5 NOV 2024 07:53
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  8 NOV 2024 09:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -564,13 +564,11 @@ Package caption Info: float package is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring OFF on input line 4.
+(8.2.1/report.out) (8.2.1/report.out)
 \@outlinefile=\write3
 \openout3 = `report.out'.
 
-
-Package hyperref Warning: Rerun to get /PageLabels entry.
-
-(./8.2.1/title.tex [1
+ (./8.2.1/title.tex [1
 
 ])
 Underfull \hbox (badness 6825) in paragraph at lines 26--27
@@ -936,147 +934,194 @@ Underfull \hbox (badness 3364) in paragraph at lines 78--79
 File: 8.2.1/models/m3_1.png Graphic file (type bmp)
 <8.2.1/models/m3_1.png>
 
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 86.
+See the caption package documentation for explanation.
+
+
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 85--86
 [][] 
  []
 
 LaTeX Font Info:    External font `cmex7' loaded for size
-(Font)              <7> on input line 86.
+(Font)              <7> on input line 87.
 [4]
 File: 8.2.1/models/m3_2.png Graphic file (type bmp)
 <8.2.1/models/m3_2.png>
- [5]
-Underfull \hbox (badness 10000) in paragraph at lines 97--99
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 93.
+See the caption package documentation for explanation.
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 99--101
 [][]$[][][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][][][][][][][][] [
 ] [][][][] [] [][][][][][][][][][][][][][][][][][][] []
  []
 
-File: 8.2.1/models/my1.png Graphic file (type bmp)
-<8.2.1/models/my1.png>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 105--106
-[][] 
+Underfull \hbox (badness 3078) in paragraph at lines 105--114
+\TU/TimesNewRoman(0)/m/n/14.4 “Войти” пользователь попадает на страницу авториз
+ации (рисунок 4).
+ []
+
+
+Underfull \hbox (badness 2150) in paragraph at lines 105--114
+\TU/TimesNewRoman(0)/m/n/14.4 При нажатии на кнопку ”Все предложения” пользоват
+ель попадает на
  []
 
 [6]
-File: 8.2.1/models/my2.png Graphic file (type bmp)
-<8.2.1/models/my2.png>
+File: 8.2.1/models/my1.pdf Graphic file (type pdf)
+<use 8.2.1/models/my1.pdf>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 111--112
-[][] 
- []
 
-File: 8.2.1/models/my3.png Graphic file (type bmp)
-<8.2.1/models/my3.png>
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 118.
+See the caption package documentation for explanation.
+
 
 Overfull \hbox (6.79999pt too wide) in paragraph at lines 117--118
 [][] 
  []
 
-[7]
-File: 8.2.1/models/my4.png Graphic file (type bmp)
-<8.2.1/models/my4.png>
+File: 8.2.1/models/my2.pdf Graphic file (type pdf)
+<use 8.2.1/models/my2.pdf>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 123--124
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 125.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 124--125
+[][] 
+ []
+
+[7]
+File: 8.2.1/models/my3.pdf Graphic file (type pdf)
+<use 8.2.1/models/my3.pdf>
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 132.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 131--132
 [][] 
  []
 
 [8]
-File: 8.2.1/models/my5.png Graphic file (type bmp)
-<8.2.1/models/my5.png>
+File: 8.2.1/models/my4.pdf Graphic file (type pdf)
+<use 8.2.1/models/my4.pdf>
 
-Overfull \hbox (6.79999pt too wide) in paragraph at lines 129--130
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 139.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 138--139
 [][] 
  []
 
 [9]
-Underfull \hbox (badness 10000) in paragraph at lines 135--137
+File: 8.2.1/models/my5.pdf Graphic file (type pdf)
+<use 8.2.1/models/my5.pdf>
+
+
+Package caption Warning: The option `hypcap=true' will be ignored for this
+(caption)                particular \caption on input line 146.
+See the caption package documentation for explanation.
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 145--146
+[][] 
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 152--154
 [][]$[][][][][] [] [] [] [][][] [] [][][][][] [] [][][] [] [][][][][][] [] [][]
 [][][][][][][][][][][][][][][][][][][][] [] [][][] []
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 143--144
+Underfull \hbox (badness 1924) in paragraph at lines 160--161
 \TU/TimesNewRoman(0)/m/n/14.4 (базовые элементы, такие как кнопки и ссылки), «м
 олекулы» (группы
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 143--144
+Underfull \hbox (badness 1019) in paragraph at lines 160--161
 \TU/TimesNewRoman(0)/m/n/14.4 элементов, которые работают вместе, как поле поис
 ка), и «организмы»
  []
 
-[10]
-Underfull \hbox (badness 7522) in paragraph at lines 151--152
+[11]
+Underfull \hbox (badness 7522) in paragraph at lines 168--169
 []\TU/TimesNewRoman(0)/m/n/14.4 UI-Kit применяется при проектировании интерфейс
 ов для ускорения
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 151--152
+Underfull \hbox (badness 3713) in paragraph at lines 168--169
 \TU/TimesNewRoman(0)/m/n/14.4 процесса дизайна. Это набор готовых компонентов (
 кнопок, полей,
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 151--152
+Underfull \hbox (badness 2961) in paragraph at lines 168--169
 \TU/TimesNewRoman(0)/m/n/14.4 иконок и пр.), которые можно использовать для сбо
 рки страниц или
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 167--168
+Underfull \hbox (badness 2384) in paragraph at lines 184--185
 []\TU/TimesNewRoman(0)/m/n/14.4 Респонсивная верстка автоматически адаптирует и
 нтерфейс под любой
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 167--168
+Underfull \hbox (badness 2564) in paragraph at lines 184--185
 \TU/TimesNewRoman(0)/m/n/14.4 экран за счет использования гибких сеток и элемен
 тов. Адаптивная
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 171--172
+Underfull \hbox (badness 2158) in paragraph at lines 188--189
 []\TU/TimesNewRoman(0)/m/n/14.4 При выборе формата сайта необходимо учитывать ц
 елевую аудиторию
  []
 
 
-Underfull \hbox (badness 3884) in paragraph at lines 171--172
+Underfull \hbox (badness 3884) in paragraph at lines 188--189
 \TU/TimesNewRoman(0)/m/n/14.4 и тип контента. Для сервисов и новостных сайтов в
 ажно выбрать
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 171--172
+Underfull \hbox (badness 1515) in paragraph at lines 188--189
 \TU/TimesNewRoman(0)/m/n/14.4 Для приложений с фиксированными требованиями можн
 о использовать
  []
 
-[11] (8.2.1/report.aux)
+[12] (8.2.1/report.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
  ***********
-
-
-Package rerunfilecheck Warning: File `report.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `report.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 15094 strings out of 476026
- 311298 string characters out of 5795041
- 1933839 words of memory out of 5000000
- 36973 multiletter control sequences out of 15000+600000
- 563144 words of font info for 74 fonts, out of 8000000 for 9000
+ 15065 strings out of 476026
+ 311123 string characters out of 5795041
+ 1934839 words of memory out of 5000000
+ 36939 multiletter control sequences out of 15000+600000
+ 563152 words of font info for 75 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
  84i,11n,96p,466b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on 8.2.1/report.pdf (11 pages).
+Output written on 8.2.1/report.pdf (12 pages).

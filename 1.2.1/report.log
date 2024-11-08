@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  6 NOV 2024 17:02
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024/Arch Linux) (preloaded format=xelatex 2024.9.27)  7 NOV 2024 23:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -781,128 +781,110 @@ Underfull \hbox (badness 3386) in paragraph at lines 303--305
 например,
  []
 
-
-Underfull \hbox (badness 3088) in paragraph at lines 320--321
-[]\TU/TimesNewRoman(0)/m/n/14.4 Удобство использования: интерфейс должен быть и
-нтуитивно
- []
-
 [15]
-Underfull \hbox (badness 10000) in paragraph at lines 322--323
-[]\TU/TimesNewRoman(0)/m/n/14.4 Регистрация и авторизация: пользователи должны 
-иметь
- []
-
-
-Underfull \hbox (badness 2582) in paragraph at lines 322--323
-\TU/TimesNewRoman(0)/m/n/14.4 возможность легко зарегистрироваться и войти в си
-стему с помощью
- []
-
-
-Underfull \hbox (badness 4967) in paragraph at lines 325--326
-[]\TU/TimesNewRoman(0)/m/n/14.4 Сортировка: необходимо реализовать функционал с
-ортировки
- []
-
-
 Underfull \hbox (badness 1742) in paragraph at lines 330--331
 []\TU/TimesNewRoman(0)/m/n/14.4 редактирование и удаление объявлений - пользова
 тели должны
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 332--333
-[]\TU/TimesNewRoman(0)/m/n/14.4 интеграция с картами - возможность указания мес
-тоположения
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 334--335
+Underfull \hbox (badness 10000) in paragraph at lines 333--334
 []\TU/TimesNewRoman(0)/m/n/14.4 сравнение автомобилей - возможность сравнения н
 ескольких
  []
 
 
-Underfull \hbox (badness 1484) in paragraph at lines 339--340
-[]\TU/TimesNewRoman(0)/m/n/14.4 внедрение платных услуг для продавцов (например
-, выделение
+Underfull \hbox (badness 1603) in paragraph at lines 334--335
+[]\TU/TimesNewRoman(0)/m/n/14.4 связь с продавцом - возможность связаться с про
+давцом через
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 341--342
-[]\TU/TimesNewRoman(0)/m/n/14.4 поддержка нескольких языков - сайт должен подде
-рживать
+Underfull \hbox (badness 1661) in paragraph at lines 335--336
+[]\TU/TimesNewRoman(0)/m/n/14.4 интеграция с картами - возможность указания мес
+тоположения
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--337
+[]\TU/TimesNewRoman(0)/m/n/14.4 регистрация и авторизация - пользователи должны
+ иметь
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--353
+[]\TU/TimesNewRoman(0)/m/n/14.4 добавление новых фильтров для поиска авто, инст
+рументов
  []
 
 [16]
-Underfull \hbox (badness 5726) in paragraph at lines 358--359
+Underfull \hbox (badness 5726) in paragraph at lines 364--365
 []\TU/TimesNewRoman(0)/m/n/14.4 Информационные сайты - предназначены для предос
 тавления
  []
 
 
-Underfull \hbox (badness 6173) in paragraph at lines 359--360
+Underfull \hbox (badness 6173) in paragraph at lines 365--366
 []\TU/TimesNewRoman(0)/m/n/14.4 Электронные коммерческие площадки - позволяют п
 роводить
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 363--364
+Underfull \hbox (badness 10000) in paragraph at lines 369--370
 []\TU/TimesNewRoman(0)/m/n/14.4 Что такое эвристический анализ? Методика провед
 ения
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 365--366
+Underfull \hbox (badness 10000) in paragraph at lines 371--372
 []\TU/TimesNewRoman(0)/m/n/14.4 Эвристический анализ - это метод оценки удобств
 а использования
  []
 
 
-Underfull \hbox (badness 1990) in paragraph at lines 369--370
+Underfull \hbox (badness 1990) in paragraph at lines 375--376
 []\TU/TimesNewRoman(0)/m/n/14.4 выбор эвристик - определение набора эвристик (э
 мпирических
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 370--371
+Underfull \hbox (badness 10000) in paragraph at lines 376--377
 []\TU/TimesNewRoman(0)/m/n/14.4 оценка интерфейса - эксперты оценивают интерфей
 с на
  []
 
 
-Underfull \hbox (badness 2512) in paragraph at lines 376--377
+Underfull \hbox (badness 2512) in paragraph at lines 382--383
 []\TU/TimesNewRoman(0)/m/n/14.4 Бриф - это документ, содержащий основные требов
 ания и пожелания
  []
 
 [17]
-Underfull \hbox (badness 1789) in paragraph at lines 386--387
+Underfull \hbox (badness 1789) in paragraph at lines 392--393
 []\TU/TimesNewRoman(0)/m/n/14.4 Как правильно сформулировать цель и задачи прое
 ктирования
  []
 
 
-Underfull \hbox (badness 2990) in paragraph at lines 388--390
+Underfull \hbox (badness 2990) in paragraph at lines 394--396
 \TU/TimesNewRoman(0)/m/n/14.4 потребностей пользователей, разработка информацио
 нной архитектуры,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 388--390
+Underfull \hbox (badness 10000) in paragraph at lines 394--396
 \TU/TimesNewRoman(0)/m/n/14.4 проектирование пользовательского интерфейса. А дл
 я правильной
  []
 
 
-Underfull \hbox (badness 3088) in paragraph at lines 392--393
+Underfull \hbox (badness 3088) in paragraph at lines 398--399
 []\TU/TimesNewRoman(0)/m/n/14.4 Удобство использования: интерфейс должен быть и
 нтуитивно
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 396--397
+Underfull \hbox (badness 3872) in paragraph at lines 402--403
 []\TU/TimesNewRoman(0)/m/n/14.4 Адаптивность: интерфейс должен корректно отобра
 жаться на
  []
@@ -920,6 +902,6 @@ Here is how much of TeX's memory you used:
  30480 multiletter control sequences out of 15000+600000
  564447 words of font info for 76 fonts, out of 8000000 for 9000
  682 hyphenation exceptions out of 8191
- 84i,12n,99p,354b,794s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,11n,99p,354b,794s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 Output written on 1.2.1/report.pdf (18 pages).
